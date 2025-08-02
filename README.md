@@ -3,7 +3,7 @@
 </h1>
 </h1>
 
-### A Student interested on Machine Learning and Data Science, I'm currently learning!
+### A Student interested on Machine Learning and Development, I'm currently learning!
 
 ### Github Statistic
 <p align="left">
