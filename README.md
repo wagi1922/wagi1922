@@ -3,6 +3,8 @@
 </h1>
 </h1>
 
+### A Student interested on Machine Learning and Data Science, I'm currently learning!
+
 ### Github Statistic
 <p align="left">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wagi1922&show_icons=true&locale=en&theme=algolia" alt="Bhayazeed" />
