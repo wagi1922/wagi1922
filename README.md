@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=0236F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wagi" alt="Typing SVG" /></a>
+</h1>
+</h1>
+<h3 align="center">A passionate frontend developer</h3>
 <!--
 **wagi1922/wagi1922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
