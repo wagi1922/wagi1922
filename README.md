@@ -7,10 +7,37 @@
 
 ### Github Statistic
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wagi1922&show_icons=true&locale=en&theme=algolia" alt="Bhayazeed" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wagi1922&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wagi1922&show_icons=true&locale=id&theme=blue-green" alt="Wagi" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wagi1922&layout=compact&langs_count=8&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@wagi1922&layout=compact&theme=blue-green"/>
+
 </a>
 </p>
+
+### My Project
+<a href="https://github.com/wagi1922/AgroSmart.git">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=wagi1922&repo=AgroSmart&theme=blue-green"/>
+</a>
+
+<a href="https://github.com/Bhayazeed/GrootUIR-Rebuild.git">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhayazeed&repo=GrootUIR-Rebuild&theme=blue-green"/>
+</a>
+
+<a href="https://github.com/wagi1922/FocusTime_Backend.git">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=wagi1922&repo=FocusTime_Backend&theme=blue-green"/>
+</a>
+
+<a href="https://github.com/wagi1922/FocusTime_Frontend.git">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=wagi1922&repo=FocusTime_Frontend&theme=blue-green"/>
+</a>
+
+<a href="https://github.com/wagi1922/STAMET.git">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=wagi1922&repo=STAMET&theme=blue-green"/>
+</a>
+
+<a href="https://github.com/wagi1922/SITBA.git">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=wagi1922&repo=SITBA&theme=blue-green"/>
+</a>
 
 ### Reach me on
 - <a href="https://wagi1922-github-io.vercel.app/">My Web</a>
